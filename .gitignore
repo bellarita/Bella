@@ -11,6 +11,13 @@ xcuserdata/
 # macOS
 .DS_Store
 
+# Node / ChatGPT Apps SDK
+node_modules/
+npm-debug.log*
+.env
+.env.*
+!.env.example
+
 # Secrets
 *.p12
 *.mobileprovision
